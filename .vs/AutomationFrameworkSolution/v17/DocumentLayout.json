@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\test\\loginuitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\test\\loginuitest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\base\\webdriverkeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\base\\webdriverkeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|c:\\mine\\company\\sileverlake malaysia july 2024\\automationframeworksolution\\healthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2420FBE3-616B-4FF4-872E-BB02326338D3}|HealthRecordAutomation\\HealthRecordAutomation.csproj|solutionrelative:healthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginUITest.cs",
+              "DocumentMoniker": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Test\\LoginUITest.cs",
+              "RelativeDocumentMoniker": "HealthRecordAutomation\\Test\\LoginUITest.cs",
+              "ToolTip": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Test\\LoginUITest.cs",
+              "RelativeToolTip": "HealthRecordAutomation\\Test\\LoginUITest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:45:34.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebDriverKeywords.cs",
+              "DocumentMoniker": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Base\\WebDriverKeywords.cs",
+              "RelativeDocumentMoniker": "HealthRecordAutomation\\Base\\WebDriverKeywords.cs",
+              "ToolTip": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Base\\WebDriverKeywords.cs",
+              "RelativeToolTip": "HealthRecordAutomation\\Base\\WebDriverKeywords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:27:38.14Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -36,40 +69,37 @@
               "RelativeDocumentMoniker": "HealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
               "ToolTip": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
               "RelativeToolTip": "HealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T04:53:24.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T04:53:24.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Pages\\MainPage.cs",
               "RelativeDocumentMoniker": "HealthRecordAutomation\\Pages\\MainPage.cs",
               "ToolTip": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Pages\\MainPage.cs",
               "RelativeToolTip": "HealthRecordAutomation\\Pages\\MainPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T04:51:41.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T04:51:41.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginPage.cs",
               "DocumentMoniker": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Pages\\LoginPage.cs",
               "RelativeDocumentMoniker": "HealthRecordAutomation\\Pages\\LoginPage.cs",
               "ToolTip": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Pages\\LoginPage.cs",
               "RelativeToolTip": "HealthRecordAutomation\\Pages\\LoginPage.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBkAAAA2AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T04:44:36.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T04:44:36.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LoginTest.cs",
               "DocumentMoniker": "C:\\Mine\\Company\\Sileverlake Malaysia July 2024\\AutomationFrameworkSolution\\HealthRecordAutomation\\Test\\LoginTest.cs",
               "RelativeDocumentMoniker": "HealthRecordAutomation\\Test\\LoginTest.cs",
@@ -77,8 +107,7 @@
               "RelativeToolTip": "HealthRecordAutomation\\Test\\LoginTest.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T03:35:03.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T03:35:03.857Z"
             }
           ]
         }

@@ -109,3 +109,4 @@ C:\Mine\Company\Sileverlake Malaysia July 2024\AutomationFrameworkSolution\Healt
 C:\Mine\Company\Sileverlake Malaysia July 2024\AutomationFrameworkSolution\HealthRecordAutomation\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Mine\Company\Sileverlake Malaysia July 2024\AutomationFrameworkSolution\HealthRecordAutomation\bin\Debug\net8.0\System.IO.Packaging.dll
 C:\Mine\Company\Sileverlake Malaysia July 2024\AutomationFrameworkSolution\HealthRecordAutomation\bin\Debug\net8.0\XLParser.dll
+C:\Mine\Company\Sileverlake Malaysia July 2024\AutomationFrameworkSolution\HealthRecordAutomation\obj\Debug\net8.0\HealthRecordAutomation.sourcelink.json
