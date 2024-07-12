@@ -29,7 +29,7 @@ namespace SilverLake.HealthRecordAutomation.Utilities
             dataset2[1] = "accountant";
             dataset2[2] = "OpenEMR";
 
-            //number of testcase
+            //number of testcases
             object[] allData = new object[2];
             allData[0] = dataset1;
             allData[1] = dataset2;
