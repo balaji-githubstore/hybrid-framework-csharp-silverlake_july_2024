@@ -17,7 +17,7 @@ namespace SilverLake.HealthRecordAutomation.Utilities
 
         public static object[] ValidLoginData()
         {
-            //number of parameter
+            //number of parameters
             string[] dataset1 = new string[3];
             dataset1[0] = "admin";
             dataset1[1] = "pass";
