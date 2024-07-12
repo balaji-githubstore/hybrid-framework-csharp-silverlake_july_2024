@@ -1,4 +1,6 @@
-﻿using OpenQA.Selenium;
+﻿using DocumentFormat.OpenXml.Spreadsheet;
+using HealthRecordAutomation.Pages;
+using OpenQA.Selenium;
 using SilverLake.HealthRecordAutomation.Base;
 using SilverLake.HealthRecordAutomation.Utilities;
 using System;
@@ -16,21 +18,25 @@ namespace SilverLake.HealthRecordAutomation.Test
         [TestCase("receptionist", "receptionist", "OpenEMR")]
         public void ValidLoginTest1(string username, string password, string expectedTitle)
         {
-            driver.FindElement(By.Id("authUser")).SendKeys(username);
-            driver.FindElement(By.CssSelector("#clearPass")).SendKeys(password);
-            driver.FindElement(By.CssSelector("#login-button")).Click();
+            LoginPage login = new LoginPage(driver);
+            login.EnterUsername(username);
+            login.EnterPassword(password);
+            login.ClickOnLogin();
 
-            Assert.That(driver.Title, Is.EqualTo(expectedTitle));
+            MainPage main= new MainPage(driver);
+            Assert.That(main.MainPageTitle, Is.EqualTo(expectedTitle));
         }
 
         [Test, TestCaseSource(typeof(DataSource),nameof(DataSource.ValidLoginDataExcel))]
         public void ValidLoginTest(string username, string password, string expectedTitle)
         {
-            driver.FindElement(By.Id("authUser")).SendKeys(username);
-            driver.FindElement(By.CssSelector("#clearPass")).SendKeys(password);
-            driver.FindElement(By.CssSelector("#login-button")).Click();
+            LoginPage login = new LoginPage(driver);
+            login.EnterUsername(username);
+            login.EnterPassword(password);
+            login.ClickOnLogin();
 
-            Assert.That(driver.Title, Is.EqualTo(expectedTitle));
+            MainPage main = new MainPage(driver);
+            Assert.That(main.MainPageTitle, Is.EqualTo(expectedTitle));
         }
     }
 }
